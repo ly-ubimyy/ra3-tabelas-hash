@@ -1,6 +1,6 @@
 # Trabalho RA3 – Tabelas Hash (Amazon Books Reviews)
 
-**Resolução de Problemas Estruturados em Computação – PUCPR**
+**Resolução de Problemas Estruturados em Computação – PUCPR**  
 Professor: Andrey Cabral Meira · Monitor: Luis Gustavo Câmara Martins
 
 Para cada usuário da base *Amazon Books Reviews* (Kaggle), o programa descobre qual é o livro de **maior média global** entre os livros que ele avaliou. Tudo é feito com uma **tabela hash própria**, com encadeamento separado, e o trabalho compara três funções hash (FNV1a, polinomial 31 e djb2).
@@ -10,7 +10,7 @@ Para cada usuário da base *Amazon Books Reviews* (Kaggle), o programa descobre 
 | Nome | GitHub | Parte no trabalho |
 | --- | --- | --- |
 | Nicolly Stefany Pedroso Cordeiro | [@ly-ubimyy](https://github.com/ly-ubimyy) | Leitura do CSV, descarte de linhas inválidas, melhor livro, arquivo de saída e consultas |
-| Nicole | – | Funções hash, tabela hash com encadeamento separado e parte experimental |
+| Nicole | [@nicolefutikami](https://github.com/nicolefutikami) | Funções hash, tabela hash com encadeamento separado e parte experimental |
 | Nikolly | [@nikollygsilva](https://github.com/nikollygsilva) | Ordenação (merge sort), top 10, medição de tempos e relatório |
 
 ## Links
