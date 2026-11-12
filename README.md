@@ -9,8 +9,8 @@ Para cada usuário da base *Amazon Books Reviews* (Kaggle), o programa descobre 
 
 | Nome | GitHub | Parte no trabalho |
 | --- | --- | --- |
-| Nicolly Stefany Pedroso Cordeiro | [@ly-ubimyy](https://github.com/ly-ubimyy) | Leitura do CSV, descarte de linhas inválidas, melhor livro, arquivo de saída e consultas |
-| Nicole | [@nicolefutikami](https://github.com/nicolefutikami) | Funções hash, tabela hash com encadeamento separado e parte experimental |
+| Nicolly Stefany Pedroso Cordeiro | [@ly-ubimyy](https://github.com/ly-ubimyy) | Funções hash, tabela hash com encadeamento separado e parte experimental |
+| Nicole | [@nicolefutikami](https://github.com/nicolefutikami) | Leitura do CSV, descarte de linhas inválidas, melhor livro, arquivo de saída e consultas |
 | Nikolly | [@nikollygsilva](https://github.com/nikollygsilva) | Ordenação (merge sort), top 10, medição de tempos e relatório |
 
 ## Links
